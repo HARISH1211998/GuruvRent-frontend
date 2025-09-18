@@ -1,4 +1,3 @@
-# GuruvRent-frontend
 # GuruRent Frontend
 
 GuruRent is a rental application for chairs, tables, gas stoves, and more.  
